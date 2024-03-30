@@ -1,5 +1,5 @@
 # Jogo Mata-mosquitos
-[você pode jogar clicando aqui](https://rebecafloriano.github.io/jogo_mata_mosquitos/)
+[Jogar agora!](https://rebecafloriano.github.io/jogo_mata_mosquitos/)
 
 
 ![Texto Alternativo](imagens/mosquito1.png)
